@@ -14,7 +14,7 @@ Script em Python que organiza automaticamente os arquivos de uma pasta em subpas
 Requisitos: Python 3.8+
 
 ```bash
-git clone https://github.com/SEU-USUARIO/organizador-de-arquivos.git
+git clone https://github.com/guilhermedias-dev/organizador-de-arquivos.git
 cd organizador-de-arquivos
 
 # Primeiro, simule:
