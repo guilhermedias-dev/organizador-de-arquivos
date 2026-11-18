@@ -53,6 +53,4 @@ Downloads/
 - Desfazer a última organização
 - Testes com `pytest`
 
-## 📄 Licença
 
-MIT
